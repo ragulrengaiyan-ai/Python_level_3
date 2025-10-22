@@ -16,6 +16,18 @@
 #         print(sub)
 # split_inbuilt("Emma-is-a-date-scientist")        
 
+# def split_no(sent):
+#     substring=""
+#     for i in sent:
+#         if i!="-":
+#             substring=substring+i
+#         else:
+#             print(substring)
+#             substring=""
+#     print(substring)        
+# split_no("Emma-is-a-data-scientist")            
+            
+
 
 # 2. Write a Python program to reverse a given string in two ways:
 # - Using an inbuilt function or slicing
